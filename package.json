@@ -1,0 +1,26 @@
+{
+  "name": "site_v2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sparcel": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelGiwiweb/P4.git"
+  },
+  "author": "Samuel Michelet",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.22.3",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SamuelGiwiweb/P4/issues"
+  },
+  "homepage": "https://github.com/SamuelGiwiweb/P4#readme"
+}
